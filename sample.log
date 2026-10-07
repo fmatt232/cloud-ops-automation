@@ -1,0 +1,5 @@
+2026-10-07T12:00:00 INFO API started
+2026-10-07T12:00:04 INFO Request completed status=200
+2026-10-07T12:01:12 WARNING Upstream latency exceeded threshold
+2026-10-07T12:02:43 ERROR Database connection timeout
+2026-10-07T12:03:01 INFO Database connection restored
